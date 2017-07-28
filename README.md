@@ -9,11 +9,11 @@ This is a simple plugin which shows health of player that you aim at in the hint
 
 # CVARs
 - ```sm_hud_health_version``` - returns the plugin version
-- ```sm_hud_health_enable``` - Enabled by default or not. (0 = Disabled, 1 = Enabled**[DEFAULT]**)
-- ```sm_hud_health_team``` - Show health to players in which team. (0 = No One, 1 = Terrorists, 2 = Counter-Terrorists, 3 = Both**[DEFAULT]**, 4 = Admins Only, 5 = Dead/Spectators Only)
-- ```sm_hud_health_mode``` - Show health of players in which team. (0 = All, 1 = Enemy**[DEFAULT]**, 2 = Teammate)
-- ```sm_hud_health_flag``` - Admin flag(s) to use if admins only. (**DEFAULT** is d)
-- ```sm_hud_health_ad``` - Enable/disable the display of the help message at the start of each round. (0 = Disabled, 1 = Enabled**[DEFAULT]**)
+- ```sm_hud_health_enable``` - Enabled by default or not. (0 = Disabled, 1 = Enabled[DEFAULT])
+- ```sm_hud_health_team``` - Show health to players in which team. (0 = No One, 1 = Terrorists, 2 = Counter-Terrorists, 3 = Both[DEFAULT], 4 = Admins Only, 5 = Dead/Spectators Only)
+- ```sm_hud_health_mode``` - Show health of players in which team. (0 = All, 1 = Enemy[DEFAULT], 2 = Teammate)
+- ```sm_hud_health_flag``` - Admin flag(s) to use if admins only. (DEFAULT is d)
+- ```sm_hud_health_ad``` - Enable/disable the display of the help message at the start of each round. (0 = Disabled, 1 = Enabled[DEFAULT])
 - ```sm_hudhealth``` or ```!hudhealth``` - Toggle the HUD Health Box On/Off
 
 # Changelog
