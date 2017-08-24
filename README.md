@@ -2,6 +2,7 @@
 This is a simple plugin which shows health of player that you aim at in the hint text box of CS:GO.
 
 # Features
+- You can customize the HUD text location, colors, alpha, duration, effects, effects duration, fade in and fade out.
 - You can change who all can see health and whose health they can see through cvars.
 - You can see the name of the player besides their Health, added in v3.0
 - You can change the admin access needed if the above is set to admins only.
