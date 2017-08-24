@@ -73,3 +73,7 @@ This is a simple plugin which shows health of player that you aim at in the hint
 
 - 2015-08-18 (v1.0)
  > Initial release.
+
+
+# Requirements
+- [Multi Colors](https://forums.alliedmods.net/showthread.php?t=247770)
